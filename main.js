@@ -1,5 +1,5 @@
 ﻿import ranges from './ranges.js'
-import encontrarBitcoins from './bitcoin-find.js'
+import { encontrarBitcoins } from './bitcoin-find.js'
 import readline from 'readline'
 import chalk from 'chalk'
 
