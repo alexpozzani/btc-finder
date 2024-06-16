@@ -158,7 +158,8 @@ const ranges = [
   { min: "0x1000000000000000000000000000000000000000", max: "0x1fffffffffffffffffffffffffffffffffffffff" },
   { min: "0x2000000000000000000000000000000000000000", max: "0x3fffffffffffffffffffffffffffffffffffffff" },
   { min: "0x4000000000000000000000000000000000000000", max: "0x7fffffffffffffffffffffffffffffffffffffff" },
-  { min: "0xC0DE000000000000000000000000000000000000000000003200000000000000", max: "0xC0DE0000000000000000000000000000000000000000000032ffffffffffffff" }
+  { min: "0x4000000000000000000000000000000000000000", max: "0x7fffffffffffffffffffffffffffffffffffffff" },
+  { min: "0x3270000000000000", max: "0x327fffffffffffff" }
 ];
 
 export default ranges;
